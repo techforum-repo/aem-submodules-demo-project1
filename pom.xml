@@ -91,6 +91,10 @@
     <aemanalyser.version>1.4.10</aemanalyser.version>
             
     <componentGroupName>Project1</componentGroupName>
+	
+	<sonar.organization>techforum-repo</sonar.organization>
+    
+	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
         
   </properties>
       
